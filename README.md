@@ -34,11 +34,10 @@ PyCitySchools\PyCitySchools.ipynb
 
 ## Conclusion
 
-All the Highest Performing Schools are Charter Schools even having a smaller budget than the Distric Schools.
+All the highest-performing schools are Charter Schools with a smaller budget than the District Schools.
 Comparing the Highest and Bottom performance, the difference is around 40% of the overall passing, which represents a huge differenc in quality of education standards. 
-The math and reading score has a small variation in between grades whithin the same school. 
-There are some schools with a lower score in math if we compare with reading.
-Math is the main reason why some schools have an overall score lower than the others.  
-More spending doesn't represent better quality of education. As a matter of fact it is showing the other way around, where the schools wiht more spendings have a way worst overall passing. 
-Small and medium school size are having similar quality education, in the other hand, the large schools 
-
+Math and reading scores have a small variation between grades in the same school. 
+There are some schools with a lower score in math if we compare it with reading.
+Math is the main reason why some schools have an overall score lower than others.  
+More spending doesn't represent a better quality of education. As a matter of fact it is showing the other way around, where the schools wiht more spendings have a way worst overall passing. 
+Small and medium school size are having similar quality education, in the other hand, the large schools, maybe due to the quantity of students, are struglying to deliver quality. 
